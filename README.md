@@ -1,4 +1,4 @@
-# Javascript and jQuery!
+# Javascript and jQuery
 
 ## First Task
 - Forked this directory into your personal account and clone it into your coding_course folder, like you did last week with the bootstrap excercise.
